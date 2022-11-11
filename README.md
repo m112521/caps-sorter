@@ -1,5 +1,13 @@
 # caps-sorter
 
+TBD:
+
+- [ ] electronics/wiring
+- [ ] 3D models, assembly
+- [ ] final device photo 
+- [ ] video of working device
+
+
 Steps to reproduce:
 
 1. Unzip saved model:
